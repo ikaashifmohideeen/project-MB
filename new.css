@@ -1,0 +1,18 @@
+h1
+{
+	text-align:center;
+}
+body
+{
+	background:url(https://media0.giphy.com/media/l3vRebb6HyeIgvmQ8/200w.webp?cid=ecf05e4774be6320cb9709c0ff5a0b5f58e9d335b7dc3de1&rid=200w.webp);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+hr
+{
+	border:bold;
+}
+img
+{
+	padding:auto 10px 300px auto;	
+}
